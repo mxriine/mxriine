@@ -74,6 +74,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://simpleicons.org/icons/django.svg" style="filter: invert(100%);" height="40" alt="django white" />
+  <img src="https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=white" height="40" alt="django white" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
 </div>
