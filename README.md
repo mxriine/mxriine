@@ -13,17 +13,28 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mxriine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mxriine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="left">🏆 Top Skills</p>
 
 ###
 
 <div align="left">
-  <a href="TON_LIEN_DISCORD" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /></a>
-  <a href="https://www.linkedin.com/in/marine-mazou-13b279254/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
-  <a href="mailto:marine.mazou@viacesi.fr"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mxriine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mxriine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -41,12 +52,12 @@
 <div align="left">
   <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=D4B830&logo=javascript&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Django&color=5CC48C&logo=django&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=C%23&color=239120&logo=c-sharp&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=c%2B%2B&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=Discord.js&color=5865F2&logo=discord&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=LaTeX&color=008080&logo=latex&logoColor=white" height="35" />
 </div>
 
 ###
@@ -58,10 +69,8 @@
 <div align="left">
   <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=html5&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vue.js&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=React&color=20232A&logo=react&logoColor=61DAFB" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=Django&color=5CC48C&logo=django&logoColor=white" height="35" />
 </div>
 
 ###
@@ -99,15 +108,28 @@
 
 ###
 
-<p align="left">🛠️ Outils & IDE</p>
+<p align="left">🛠️ Outils & Framework </p>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=VS_Code&color=007ACC&logo=visual-studio-code&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=github&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=LaTeX&color=008080&logo=latex&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Discord.js&color=5865F2&logo=discord&logoColor=white" height="35" />
 </div>
 
 ###
+
+<p align="left">🧑‍💻 IDE & Outils de dev</p>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?label=&message=VS%20Code&color=007ACC&logo=visual-studio-code&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Visual%20Studio&color=5C2D91&logo=visual-studio&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=jupyter&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Anaconda&color=44A833&logo=anaconda&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Arduino&color=00979D&logo=arduino&logoColor=white" height="35" />
+</div>
 
 ###
 <div align="center">
