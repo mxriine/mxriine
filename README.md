@@ -74,8 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://simpleicons.org/icons/django.svg" style="filter: invert(100%);" height="40" alt="django white" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
 </div>
 
 ###
@@ -87,6 +85,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=Redis&color=DC382D&logo=redis&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Sequelize&color=52B0E7&logo=sequelize&logoColor=white" height="35" alt="sequelize badge" />
 </div>
 
 ###
