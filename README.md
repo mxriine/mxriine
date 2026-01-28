@@ -34,69 +34,46 @@
 
 ###
 
-<p align="left">🧠 Langages de programmation</p>
+<p align="left">🧠 Langages & Web (Style Logos Colorés)</p>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=C%23&color=239120&logo=c-sharp&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=c%2B%2B&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=white" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=white" height="38" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
 </div>
 
 ###
 
-<p align="left">🌐 Développement Web</p>
+<p align="left">☁️ Cloud, DevOps & DB (Style Badges Fins)</p>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=React&color=20232A&logo=react&logoColor=61DAFB" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=Sequelize&color=52B0E7&logo=sequelize&logoColor=white" height="35" />
-</div>
-
-###
-
-<p align="left">🗄️ Bases de données</p>
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=mysql&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=AWS&color=232F3E&logo=amazon-aws&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=mysql&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=Redis&color=DC382D&logo=redis&logoColor=white" height="35" />
 </div>
 
 ###
 
-<p align="left">☁️ Cloud & DevOps</p>
+<p align="left">🛠️ Outils & Système</p>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=AWS&color=232F3E&logo=amazon-aws&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=Azure&color=0089D6&logo=microsoft-azure&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=Apache&color=D22128&logo=apache&logoColor=white" height="35" />
-</div>
-
-###
-
-<p align="left">🖥️ Systèmes & Réseaux</p>
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=black" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=Debian&color=A81D33&logo=debian&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&logo=ubuntu&logoColor=white" height="35" />
-</div>
-
-###
-
-<p align="left">🛠️ Outils & IDE</p>
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=VS_Code&color=007ACC&logo=visual-studio-code&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=github&logoColor=white" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </div>
 
 ###
