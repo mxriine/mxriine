@@ -39,21 +39,14 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=C%23&color=239120&logo=c-sharp&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=c%2B%2B&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Discord.js&color=5865F2&logo=discord&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=LaTeX&color=008080&logo=latex&logoColor=white" height="35" />
 </div>
 
 ###
@@ -63,17 +56,12 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://simpleicons.org/icons/django.svg" style="filter: invert(100%);" height="40" alt="django white" />
+  <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=html5&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vue.js&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=black" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=white" height="35" />
 </div>
 
 ###
