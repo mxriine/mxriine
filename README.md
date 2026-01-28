@@ -39,7 +39,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=C%23&color=239120&logo=c-sharp&logoColor=white" height="35" />
@@ -60,8 +60,8 @@
   <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vue.js&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=black" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Django&color=43B581&logo=django&logoColor=white" height="35" />
 </div>
 
 ###
