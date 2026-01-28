@@ -37,12 +37,12 @@
 <p align="left">🧠 Langages de programmation</p>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=C%23&color=239120&logo=c-sharp&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=c%2B%2B&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=white" height="35" />
 </div>
 
 ###
@@ -50,11 +50,11 @@
 <p align="left">🌐 Développement Web</p>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=React&color=20232A&logo=react&logoColor=61DAFB" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Sequelize&color=52B0E7&logo=sequelize&logoColor=white" height="35" />
 </div>
 
 ###
@@ -62,10 +62,10 @@
 <p align="left">🗄️ Bases de données</p>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=mysql&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Redis&color=DC382D&logo=redis&logoColor=white" height="35" />
 </div>
 
 ###
@@ -73,10 +73,10 @@
 <p align="left">☁️ Cloud & DevOps</p>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=AWS&color=232F3E&logo=amazon-aws&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Azure&color=0089D6&logo=microsoft-azure&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Apache&color=D22128&logo=apache&logoColor=white" height="35" />
 </div>
 
 ###
@@ -84,19 +84,19 @@
 <p align="left">🖥️ Systèmes & Réseaux</p>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=black" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Debian&color=A81D33&logo=debian&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&logo=ubuntu&logoColor=white" height="35" />
 </div>
 
 ###
 
-<p align="left">🧑‍💻 Outils & IDE</p>
+<p align="left">🛠️ Outils & IDE</p>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=VS_Code&color=007ACC&logo=visual-studio-code&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=github&logoColor=white" height="35" />
 </div>
 
 ###
