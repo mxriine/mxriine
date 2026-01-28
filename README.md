@@ -92,7 +92,7 @@
 <p align="left">🖥️ Systèmes & Réseaux</p>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=black" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Linux&color=333333&logo=linux&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=Debian&color=A81D33&logo=debian&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&logo=ubuntu&logoColor=white" height="35" />
 </div>
