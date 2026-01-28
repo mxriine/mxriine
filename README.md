@@ -13,16 +13,16 @@
 
 ###
 
-<p align="left">🏆 Top Skills</p>
+<p align="center">🏆 Top Skills</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -114,7 +114,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=github&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=LaTeX&color=008080&logo=latex&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=Discord.js&color=5865F2&logo=discord&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=Discord.js&color=5865F2&logo=discordjs&logoColor=white" height="35" />
 </div>
 
 ###
@@ -124,8 +124,8 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=VS%20Code&color=007ACC&logo=visual-studio-code&logoColor=white" height="35" />
-  <img src="https://img.shields.io/static/v1?label=&message=Visual%20Studio&color=5C2D91&logo=visual-studio&logoColor=white" height="35" />
+  <img src="https://img.shields.io/static/v1?label=&message=VS%20Code&color=007ACC&logo=visual-studio-code&logoColor=white" height="35" alt="VS Code logo" />
+  <img src="https://img.shields.io/static/v1?label=&message=Visual%20Studio&color=5C2D91&logo=visual-studio&logoColor=white" height="35" alt="Visual Studio logo" />
   <img src="https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=jupyter&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=Anaconda&color=44A833&logo=anaconda&logoColor=white" height="35" />
   <img src="https://img.shields.io/static/v1?label=&message=Arduino&color=00979D&logo=arduino&logoColor=white" height="35" />
