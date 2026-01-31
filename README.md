@@ -28,8 +28,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZelPhyris&show_icons=true&theme=vue-dark&count_private=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZelPhyris&layout=compact&theme=vue-dark" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mxriine&show_icons=true&theme=vue-dark&count_private=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mxriine&layout=compact&theme=vue-dark" height="150" alt="languages graph" />
 </div>
 
 ###
